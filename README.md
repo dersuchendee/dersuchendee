@@ -34,10 +34,10 @@ The main focus of my research at the moment is on the use of semantic technologi
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/dersuchendee"><img src="https://github-readme-stats.vercel.app/api?username=StenDoipanni&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="StenDoipanni's GitHub stats" /></a>
+<a href="https://github.com/dersuchendee"><img src="https://github-readme-stats.vercel.app/api?username=dersuchendee&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="dersuchendee's GitHub stats" /></a>
 
 <a href="https://github.com/dersuchendee"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=StenDoipanni&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/StenDoipanni"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=StenDoipanni" alt="Skills Graph" width="80%"/></a>
+<a href="https://github.com/dersuchendee"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dersuchendee" alt="Skills Graph" width="80%"/></a>
 
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=dersuchendee.dersuchendee&left_color=green&right_color=gray)
