@@ -18,7 +18,7 @@ The main focus of my research at the moment is on the use of semantic technologi
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://en.wikipedia.org/wiki/Front-end_web_development" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/904/579/png-transparent-production-logo-front-and-back-ends-front-end-web-development-javascript-frontend-web-development-angle-text-rectangle-thumbnail.png" width="36" height="36" alt="FE" /></a>
-<a href="https://omeka.org/" target="_blank" rel="noreferrer"><https://frameblog.unibo.it/wp-content/uploads/2022/03/OmekaBadge.png" width="36" height="36" alt="Omeka" /></a>
+<a href="https://omeka.org/" target="_blank" rel="noreferrer"><img src="https://frameblog.unibo.it/wp-content/uploads/2022/03/OmekaBadge.png" width="36" height="36" alt="Omeka" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
