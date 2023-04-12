@@ -25,7 +25,7 @@ The main focus of my research at the moment is on the use of semantic technologi
 
 ### Socials
 
-<p align="right">
+<p align="left">
 <a href="https://github.com/dersuchendee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
 <a href="https://twitter.com/dersuchende_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
@@ -38,6 +38,6 @@ The main focus of my research at the moment is on the use of semantic technologi
 
 <a href="https://github.com/dersuchendee"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dersuchendee&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/dersuchendee"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dersuchendee" alt="Skills Graph" width="60%"/></a>
+<a href="https://github.com/dersuchendee"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dersuchendee" alt="Skills Graph" width="40%"/></a>
 
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=dersuchendee.dersuchendee&left_color=green&right_color=gray)
