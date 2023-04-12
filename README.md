@@ -38,6 +38,6 @@ The main focus of my research at the moment is on the use of semantic technologi
 
 <a href="https://github.com/dersuchendee"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=dersuchendee&theme=github-compact" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/dersuchendee"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dersuchendee" alt="Skills Graph" width="40%"/></a>
+<a href="https://github.com/dersuchendee"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dersuchendee" alt="Skills Graph" width="20%"/></a>
 
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=dersuchendee.dersuchendee&left_color=green&right_color=gray)
